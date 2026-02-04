@@ -1,18 +1,18 @@
 # GraphicsGale - Exploratory Testing (Session 1)
 
-##Goal
-Explore basic drawing and selection tools to understand application behavior and usability.
+## Goal:
+- Explore basic drawing and selection tools to understand application behavior and usability.
 
-##Environment
+## Environment:
 - OS: Windows 11;
 - Application: GraphicsGale;
 - Version: 2.10.01.
 
-##Initial setup:
+## Initial setup:
 - Canvas size: 256x256;
 - Color mode: 32bit (Full color + Alpha Channel).
 
-##Notes / Observations:
+## Notes / Observations:
 1. Opened the application and created a new canvas with the parameters described above;
 2. Started drawing combinations and palletes of different colours;
 3. Decided to add text "Combination of colours 1" using the "Draw Text" tool;

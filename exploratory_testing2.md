@@ -8,11 +8,11 @@ Explore basic tools and commands to understand application behaviour and usabili
 - Application: GraphicsGale;
 - Version: 2.10.01.
 
-##Initial setup:
+## Initial setup:
 - Canvas size: 256x256;
 - Color mode: 32bit (Full color + Alpha channel).
 
-##Notes and observations:
+## Notes and observations:
 1. Opened the application and created a new canvas 256x256 with parameter "32bit (Full color + Alpha channel)";
 2. Tried the "Onion Skin" tool and did not fully understand what it does or how it works. Without prior training, the tool is not intuitive;
 3. Tried the "Snap" tool and also did not understand its function or behaviour. It is likely explained in the documentation, but at the moment the application is being tested using the black-box method;
