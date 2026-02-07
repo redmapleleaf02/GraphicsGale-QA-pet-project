@@ -30,7 +30,7 @@ Improvement suggestion:
 - The seventh section in the image with embedded navigation leads to section "4-5. Loupe", which is not displayed in the left documentation contents.
 
 Evidences:
-- Screenshots are located in the "Docs/Documentation_Testing" directory;
+- Screenshots are located in the "Bugs/Documentation Testing Session1" directory;
 - Screenshot names: "documentation_testing_session1_bug1.png", "documentation_testing_session1_bug2.png".
 
 Impact:

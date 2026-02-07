@@ -23,7 +23,7 @@
 - A fourth layer named "Combined" appears in the "Layer" interface. The bottom layer shifts to the right.
 
 ## Evidence:
-- Located in the "Bugs/Session4" directory;
+- Located in the "Bugs/Exploratory Testing Session4" directory;
 - File names:
 - exploratory_testing_session4_bug1.png;
 - exploratory_testing_session4_bug2.png;
