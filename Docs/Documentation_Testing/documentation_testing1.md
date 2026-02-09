@@ -85,3 +85,87 @@ Improvement suggestion:
 - No critical errors found;
 - Several minor defects identified;
 - Overall, the documentation is usable, but it can be improved for greater clarity.
+
+
+---
+
+
+## Additional notes (09.02.2026):
+
+### 5. Missing/hidden section:
+- Section "4-1. Color Palette" contains an image with embedded navigation leading to a separate page, which is not displayed in the left documentation contents.
+
+Evidences:
+- Screenshots are located in the directory "Bugs/Documentation Testing Session 1";
+- Screenshot names: "documentation_testing_session1_bug3.png", "documentation_testing_session1_bug4.png".
+
+Impact:
+- Logical navigation is disrupted;
+- Documentation structure is disrupted;
+- User loses sight of the hidden section.
+
+Severity: low.
+Priority: minor.
+
+Improvement suggestion:
+- Add the hidden page as a subsection of "4-1. Color Palette" so that the page with separate information is not lost to the user and is displayed in the left documentation contents.
+
+---
+
+### 6. Missing/hidden section:
+- Section "4-2. Frame" contains an embedded hyperlink in the contents leading to a separate page titled "Frame's Properties", which is not displayed in the left documentation contents.
+
+Evidences:
+- Screenshots are located in the directory "Bugs/Documentation Testing Session 1";
+- Screenshot names: "documentation_testing_session1_bug5.png", "documentation_testing_session1_bug6.png".
+
+Impact:
+- Logical navigation is disrupted;
+- Documentation structure is disrupted;
+- User loses sight of the hidden section.
+
+Severity: low.
+Priority: minor.
+
+Improvement suggestion:
+- Add the hidden page as a subsection of "4-2. Frame" so that the page with separate information is not lost to the user and is displayed in the left documentation contents.
+
+---
+
+### 7. Missing/hidden section:
+- Section "4-3. Layer" contains an embedded hyperlink in the contents leading to a separate page titled "Layer's Properties", which is not displayed in the left documentation contents.
+
+Evidences:
+- Screenshots are located in the directory "Bugs/Documentation Testing Session 1";
+- Screenshot names: "documentation_testing_session1_bug7.png", "documentation_testing_session1_bug8.png".
+
+Impact:
+- Logical navigation is disrupted;
+- Documentation structure is disrupted;
+- User loses sight of the hidden section.
+
+Severity: low.
+Priority: minor.
+
+Improvement suggestion:
+- Add the hidden page as a subsection of "4-3. Layer" so that the page with separate information is not lost to the user and is displayed in the left documentation contents.
+
+---
+
+### 8. Missing/hidden section:
+- Chapter "8. Preferences" contains an embedded hyperlink in the contents leading to a separate page titled "Menus", which is not displayed in the left documentation contents.
+
+Evidences:
+- Screenshots are located in the directory "Bugs/Documentation Testing Session 1";
+- Screenshot names: "documentation_testing_session1_bug9.png", "documentation_testing_session1_bug10.png".
+
+Impact:
+- Logical navigation is disrupted;
+- Documentation structure is disrupted;
+- User loses sight of the hidden section.
+
+Severity: low.
+Priority: minor.
+
+Improvement suggestion:
+- Move the contents of the hidden page into chapter "6. Main Menu", since the information in chapter "6. Main Menu" duplicates the information of section "6-1. File".

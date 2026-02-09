@@ -1,6 +1,6 @@
 # GraphicsGale - Bug Report №1
 
-## Title
+## Title:
 - The bottom layer shifts to the right in the "Layer" interface when using "Combine Visible" or "Combine Down" with empty checkboxes
 
 ## Description:
@@ -12,7 +12,7 @@
 
 ## Steps:
 1. Open the application and create a new canvas;
-2. Click on the "Add" tool in the layers section and create two layers;
+2. Click on the "Add" tool in the layers section and create additional layers so that at least three layers exist;
 3. Move the bottom scrollbar of the "Layer" interface fully to the right;
 4. Click on the "Combine Down" or "Combine Visible" tool with both checkboxes unchecked.
 
@@ -20,10 +20,32 @@
 - A fourth layer named "Combined" appears in the "Layer" interface. All layers remain aligned without any shifting in the list.
 
 ## Actual Result:
-- A fourth layer named "Combined" appears in the "Layer" interface. The bottom layer shifts to the right.
+- A fourth layer named "Combined" appears in the "Layer" interface. The bottom layer shifts to the right and it requires manual scroll to view correctly.
+
+## Priority:
+- Low.
+
+## Severity:
+- Low.
 
 ## Evidence:
-- Located in the "Bugs/Exploratory Testing Session4" directory;
+
+### Screenshot 1:
+![Bug Screenshot 1](Bugs/Exploratory Testing Session4/exploratory_testing_session4_bug1.png)
+
+### Screenshot 2:
+![Bug Screenshot 2](Bugs/Exploratory Testing Session4/exploratory_testing_session4_bug2.png)
+
+### Screenshot 3:
+![Bug Screenshot 3](Bugs/Exploratory Testing Session4/exploratory_testing_session4_bug3.png)
+
+### Screenshot 4:
+![Bug Screenshot 4](Bugs/Exploratory Testing Session4/exploratory_testing_session4_bug4.png)
+
+### Screenshot 5:
+![Bug Screenshot 5](Bugs/Exploratory Testing Session4/exploratory_testing_session4_bug5.png)
+
+- Screenshots are located in the "Bugs/Exploratory Testing Session4" directory;
 - File names:
 - exploratory_testing_session4_bug1.png;
 - exploratory_testing_session4_bug2.png;
