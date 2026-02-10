@@ -31,19 +31,19 @@
 ## Evidence:
 
 ### Screenshot 1:
-![Bug Screenshot 1](Bugs/Exploratory%20Testing%20Session4/exploratory_testing_session4_bug1.png)
+![Bug Screenshot 1](exploratory_testing_session4_bug1.png)
 
 ### Screenshot 2:
-![Bug Screenshot 2](Bugs/Exploratory%20Testing%20Session4/exploratory_testing_session4_bug2.png)
+![Bug Screenshot 2](exploratory_testing_session4_bug2.png)
 
 ### Screenshot 3:
-![Bug Screenshot 3](Bugs/Exploratory%20Testing%20Session4/exploratory_testing_session4_bug3.png)
+![Bug Screenshot 3](exploratory_testing_session4_bug3.png)
 
 ### Screenshot 4:
-![Bug Screenshot 4](Bugs/Exploratory%20Testing%20Session4/exploratory_testing_session4_bug4.png)
+![Bug Screenshot 4](exploratory_testing_session4_bug4.png)
 
 ### Screenshot 5:
-![Bug Screenshot 5](Bugs/Exploratory%20Testing%20Session4/exploratory_testing_session4_bug5.png)
+![Bug Screenshot 5](exploratory_testing_session4_bug5.png)
 
 - Screenshots are located in the "Bugs/Exploratory Testing Session4" directory;
 - File names:

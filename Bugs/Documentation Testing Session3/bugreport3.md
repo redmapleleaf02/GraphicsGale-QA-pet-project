@@ -31,13 +31,13 @@
 ## Evidence:
 
 ### Screenshot 1:
-![Bug Screenshot 1](Bugs/Documentation%20Testing%20Session3/documentation_testing_session3_bug5.png)
+![Bug Screenshot 1](documentation_testing_session3_bug5.png)
 
 ### Screenshot 2:
-![Bug Screenshot 2](Bugs/Documentation%20Testing%20Session3/documentation_testing_session3_bug12.png)
+![Bug Screenshot 2](documentation_testing_session3_bug12.png)
 
 ### Screenshot 3:
-![Bug Screenshot 3](Bugs/Documentation%20Testing%20Session3/documentation_testing_session3_bug13.png)
+![Bug Screenshot 3](documentation_testing_session3_bug13.png)
 
 - Screenshots are located in the directory "Bugs/Documentation Testing Session3";
 - File names:

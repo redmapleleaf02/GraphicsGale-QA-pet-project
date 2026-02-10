@@ -31,19 +31,19 @@
 ## Evidence:
 
 ### Screenshot 1:
-![Bug Screenshot 1](Bugs/Documentation%20Testing%20Session3/documentation_testing_session3_bug5.png)
+![Bug Screenshot 1](documentation_testing_session3_bug5.png)
 
 ### Screenshot 2:
-![Bug Screenshot 2](Bugs/Documentation%20Testing%20Session3/documentation_testing_session3_bug6.png)
+![Bug Screenshot 2](documentation_testing_session3_bug6.png)
 
 ### Screenshot 3:
-![Bug Screenshot 3](Bugs/Documentation%20Testing%20Session3/documentation_testing_session3_bug7.png)
+![Bug Screenshot 3](documentation_testing_session3_bug7.png)
 
 ### Screenshot 4:
-![Bug Screenshot 4](Bugs/Documentation%20Testing%20Session3/documentation_testing_session3_bug8.png)
+![Bug Screenshot 4](documentation_testing_session3_bug8.png)
 
 ### Screenshot 5:
-![Bug Screenshot 5](Bugs/Documentation%20Testing%20Session3/documentation_testing_session3_bug9.png)
+![Bug Screenshot 5](documentation_testing_session3_bug9.png)
 
 - Screenshots are located in the directory "Bugs/Documentation Testing Session3";
 - File names:
