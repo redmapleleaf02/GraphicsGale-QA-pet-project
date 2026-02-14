@@ -47,7 +47,6 @@ Observation after selecting "Yes":
 - About 80% of colors in the "Palette" interface turned black;
 - GIF playback was quite slow.
 
-
 12. Selected all 9 frames using Shift and changed the "Delay" parameter from "100" to "10";
 13. Saved the file in ".gif" format with name "exploratory_testing_gif2".
 

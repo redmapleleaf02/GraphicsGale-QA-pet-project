@@ -23,13 +23,13 @@ Explore basic tools and commands to understand application behaviour and usabili
 - Clicking the tool opens a selector (dropdown list) with the following options: "None", "8x8", "16x16", "32x32", "64x64", "Input...", "Setup..." and "Show Custom-Grid";
 - Selecting options from "8x8" to "64x64" displays the canvas with blue grid cells of the specified size;
 - In combination with the "Snap" and "Pen" tools, it is possible to draw straight lines within the grid cells or diagonally;
-- Selecting "Input..." opens a dialog box with tabs "Grid Size" and "Divided Number", where grid parameters can be customized;
-- Selecting "Setup..." opens a dialog box with standard grid sizes ("8x8", "16x16", "32x32", "64x64") and buttons "Add", "Edit", "Delete", "OK";
+- Selecting "Input..." opens a modal window with tabs "Grid Size" and "Divided Number", where grid parameters can be customized;
+- Selecting "Setup..." opens a modal window with standard grid sizes ("8x8", "16x16", "32x32", "64x64") and buttons "Add", "Edit", "Delete", "OK";
 - Clicking "Add" allows adding custom grid sizes, which then appear in the "Custom-Grid" selector after confirmation with "OK".
 6. Magnification:
 - Clicking the tool opens a selector with values "10%", "20%", "30%", "40%", "50%", "60%", "70%", "80%", "90%", "100%", "200%", "300%", "400%", "500%", "600%", "700%", "800%", "900%", "1000%", "1500%", "2000%", "2500%", "3000%", "3500%", "4000%" and "Setup...";
-- Selecting "Setup..." opens a dialog box with the listed percentages and buttons "Add", "Edit", "Delete", "Default", "Clear", "OK";
-- Clicking "Add" opens a dialog with parameter "Magnification(%)" and buttons "OK" and "Cancel", allowing custom zoom values;
+- Selecting "Setup..." opens a modal window with the listed percentages and buttons "Add", "Edit", "Delete", "Default", "Clear", "OK";
+- Clicking "Add" opens a modal window with parameter "Magnification(%)" and buttons "OK" and "Cancel", allowing custom zoom values;
 - Attempting to enter "10000" or "100000" results in "8000%" (values above 8000% are not allowed);
 - Attempting values below "10%" (9% to 0%) disables the "OK" button;
 - Attempting negative values (e.g., "-500%") results in a duplicate "10%" entry (values below 10% are not allowed);
@@ -53,14 +53,14 @@ Explore basic tools and commands to understand application behaviour and usabili
 - Restores steps that were cancelled earlier;
 - Not available if there are no undone actions to restore.
 12. Save (Ctrl+S):
-- On first use with a new canvas, opens a "Save" dialog to choose location, filename and file type;
+- On first use with a new canvas, the tool opens a "Save" modal window to choose location, filename and file type;
 - Supports multiple formats: "Gale (.gal)", "Bitmap (.bmp)", "Device Independent Bitmap (.dib)", "ICON (.ico)", "Cursor (.cur)", "Animated Cursor (.ani)", "JPEG (.jpg; .jpeg)", "GIF (.gif)", "PNG (.png)", "TGA (.tga)", "TIFF (.tif; .tiff)", "AVI (.avi)";
-- On subsequent use, saves automatically without showing the dialog.
+- On subsequent use, saves automatically without showing the modal window.
 13. Browse:
 - Opens a separate desktop application "GaleBrowser ver.2.09.00";
 - Allows browsing user directories, subdirectories and their files with the formats listed in point 12.
 14. Open (Ctrl+O):
-- Opens a dialog with directories, subdirectories and files;
+- Opens a modal window with directories, subdirectories and files;
 - Allows opening files with the formats listed in point 12.
 15. New (Ctrl+N):
 - Opens a "New" dialog to set canvas size (height and width) and choose colour mode: "1bit(2colors)", "4bit(16colors)", "8bit(256colors)", "15bit(32000colors)", "16bit(64000colors)", "24bit(Full color)" and "32bit(Full color + Alpha channel);

@@ -14,16 +14,16 @@
 
 ## Notes / Observations:
 1. Opened the application and created a new canvas with the parameters described above;
-2. Started drawing combinations and palletes of different colours;
+2. Started drawing combinations and palletes of different colors;
 3. Decided to add text "Combination of colours 1" using the "Draw Text" tool;
 4. Wanted to edit the text, but the "Draw Text" tool created a second identical text instead of allowing me to modify the first one;
 5. Could not figure out how to edit existing text. Tried to use an "Eraser" tool to clear the canvas from text, but such a tool does not exist in the application;
 6. Found the "Paint Mode" tool, which has three modes: "Normal", "Clear", "Opacity";
 7. Switched from "Normal" mode to "Clear" mode;
 8. Using the "Pen" tool in "Clear" mode, I was able to remove the digit "1" from the text;
-9. Wanted to use the "Eyedropper" tool, but it does not exist in the interface. By clicking around, I discovered that right-click (RMB) allows switching to the selected colour;
-10. Enlarged colour combinations using the "Rectangular Selection" tool;
-11. Tried to enlarge other colour combinations using the "Oval Selection" tool after switching from "Rectangular Selection", but the tool did not respond;
+9. Wanted to use the "Eyedropper" tool, but it does not exist in the interface. By clicking around, I discovered that right-click (RMB) allows switching to the selected color;
+10. Enlarged color combinations using the "Rectangular Selection" tool;
+11. Tried to enlarge other color combinations using the "Oval Selection" tool after switching from "Rectangular Selection", but the tool did not respond;
 12. Switched to the "Pen" tool, then to "Oval Selection", and after these transitions the "Oval Selection" tool started working;
 13. Tried to switch back from "Oval Selection" to "Rectangular Selection", but the interface did not respond. After right-clicking on the canvas, the oval selection disappeared, and only then the "Rectangular Selection" tool worked;
 14. Tested the "Lasso" tool by selecting objects, moving them, and modifying them in various ways;
@@ -35,12 +35,12 @@
 - LMB zooms in;
 - RMB zooms out.
 18. Tested the "MagicWand" tool:
-- LMB on colours or areas filled with one colour selects those areas precisely, allowing further manipulations (resize, expand, shrink, transform);
+- LMB on colors or areas filled with one color selects those areas precisely, allowing further manipulations (resize, expand, shrink, transform);
 - RMB does nothing.
-19. When clicking on a brown-coloured area, "MagicWand" selects both brown and adjacent olive colour, failing to distinguish between two different colours;
+19. When clicking on a brown-coloured area, "MagicWand" selects both brown and adjacent olive color, failing to distinguish between two different colors;
 20. Tested the "Color Selection" tool:
-- Precisely selects areas with different colours;
-- Recognizes differences between two similar colours with different saturation or shade levels.
+- Precisely selects areas with different colors;
+- Recognizes differences between two similar colors with different saturation or shade levels.
 21. "Pen" tool:
 - LMB press and hold draws as expected;
 - RMB press and hold starts area selection and switches to "Rectangular Selection";
@@ -60,7 +60,7 @@
 25. Tested the "Filled Rectangle" tool:
 - LMB click does nothing;
 - RMB click does nothing except acting as "Eyedropper";
-- LMB press and hold draws a filled rectangle with the chosen colour;
+- LMB press and hold draws a filled rectangle with the chosen color;
 - RMB press and hold starts area selection and switches to "Rectangular Selection".
 26. Tested the "Oval" tool:
 - LMB click does nothing;
@@ -70,10 +70,10 @@
 27. Tested the "Filled Oval" tool:
 - LMB click does nothing;
 - RMB click does nothing except acting as "Eyedropper";
-- LMB press and hold draws filled oval or circle shapes with the chosen colour;
+- LMB press and hold draws filled oval or circle shapes with the chosen color;
 - RMB press and hold starts area selection and switches to "Rectangular Selection".
 28. Tested the "Flood Fill" tool:
-- LMB click fills the area with the chosen colour;
+- LMB click fills the area with the chosen color;
 - RMB click acts as "Eyedropper";
 - LMB press and hold does nothing;
 - RMB press and hold starts area selection and switches to "Rectangular Selection".
